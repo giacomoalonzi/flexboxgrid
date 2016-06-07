@@ -1,7 +1,7 @@
 {
-  "name": "flexboxgrid",
-  "version": "6.3.0",
-  "description": "Grid based off of CSS3 flexbox specification",
+  "name": "flexboxgrid-flexibility",
+  "version": "6.3.0-patch1",
+  "description": "Grid based off of CSS3 flexbox specification + flexibility support",
   "style": "dist/flexboxgrid.css",
   "main": "dist/flexboxgrid.css",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kristoferjoseph/flexboxgrid.git"
+    "url": "git://github.com/giacomoalonzi/flexboxgrid.git"
   },
   "keywords": [
     "browser",
