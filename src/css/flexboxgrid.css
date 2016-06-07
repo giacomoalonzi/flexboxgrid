@@ -32,6 +32,9 @@
 
 .row {
   box-sizing: border-box;
+  /* autoprefixer: off */
+  -js-display: flex;
+  /* autoprefixer: on */
   display: flex;
   flex: 0 1 auto;
   flex-direction: row;
